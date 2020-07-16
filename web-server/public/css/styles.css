@@ -1,0 +1,43 @@
+body {
+    font-family: monospace;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    min-height:100vh
+}
+
+footer{
+    padding:16px;
+    border-top: 1px solid black;
+    margin-top:16px;
+}
+
+header {
+    margin-top:16px;
+    margin-bottom:48px;
+}
+
+h1{
+    font-size:64px;
+}
+
+.main-content{
+    flex-grow:1;
+}
+
+.portrait {
+    width:300px;
+}
+
+header a {
+    font-size: 16px;
+    margin: 0 8px;
+    text-decoration: none; 
+}
+
+a:hover {
+    background-color: cadetblue;
+    color: black;
+}
