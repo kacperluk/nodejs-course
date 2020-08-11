@@ -7,6 +7,6 @@ Rest of the projects from this course are in separate repositories:
 https://github.com/kacperluk/node-weather-app
 
 ## Task Manager
-https://github.com/kacperluk/chat-app
+https://github.com/kacperluk/task-manager
 ## Chat App
 https://github.com/kacperluk/chat-app
